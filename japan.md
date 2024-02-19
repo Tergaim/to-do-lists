@@ -65,7 +65,7 @@
 - [ ] China
 - [ ] Taiwan
 - [ ] New Zealand
-- [ ] Hawai
+<!-- - [ ] Hawai -->
 
 
 ## IC Cards
@@ -74,7 +74,7 @@
 - [x] Suica (Tokyo, JR)
 - [ ] Pasmo (Tokyo)
 - [x] Manaca (Nagoya)
-- [ ] Toica (Nagoya, JR)
+- [x] Toica (Nagoya, JR)
 - [ ] Icoca (Osaka, JR)
 - [ ] Nimoca (Fukuoka)
 - [ ] Hayakaken (Fukuoka City)
