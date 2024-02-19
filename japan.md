@@ -40,14 +40,17 @@
 - [ ] camellia          / february
 - [ ] plums             / february > early march
 - [x] sakuras           / mid march > mid april
+- [ ] nemophila         / mid april > early may
 - [ ] azaleas           / mid april > mid may
 - [ ] wisteria          / mid april > mid may
+- [ ] pink moss         / mid april > mid may
+- [ ] tulips            / late april > may
 - [x] iris              / mid to late may
 - [x] roses             / may
 - [x] hydrangeas        / june
+- [ ] lavender          / early july > august
 - [ ] sunflowers        / july > august
 - [x] lotus             / mid july > mid august
-- [ ] lavender          / mid july > august
 - [ ] cosmos            / late august > october
 - [ ] chrysanteum       / september > november
 - [ ] spider lily       / late september > october
