@@ -33,7 +33,8 @@
 - [ ] watch a sunrise
 - [ ] bike trip on the Shimanami Kaidou
 - [ ] get tattooed?
-- [ ] love hotel
+- [ ] ski
+<!-- - [ ] love hotel -->
 
 ### Flowers
 
