@@ -7,7 +7,7 @@
 - [x] Sumo tournament
 - [x] Sapporo Ice Festival    / early february
 - [x] summer fireworks        / summer
-- [ ] Loudness concert        
+- [x] Loudness concert        
 - [x] Setsubun shrine thing   / early february
 - [ ] Kanda Matsuri           / mid-may 2025
 - [ ] Chichibu yomatsuri      / early december
@@ -60,7 +60,7 @@
 ### Other
 
 - [ ] buy a sukajan
-- [ ] buy a yukata
+- [x] buy a yukata
 
 ## Overseas
 
