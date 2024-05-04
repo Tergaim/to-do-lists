@@ -3,7 +3,7 @@
 ### Events
 
 - [ ] Hakone Ekiden           / early january
-- [ ] Kyudo tournament
+- [x] Kyudo tournament
 - [x] Sumo tournament
 - [x] Sapporo Ice Festival    / early february
 - [x] summer fireworks        / summer
@@ -20,7 +20,7 @@
 - [ ] Southernmost point
 - [ ] Hakone
 - [ ] Himeji
-- [ ] Nikko
+- [x] Nikko
 - [ ] Fukuoka
 
 ### Activities
@@ -29,7 +29,7 @@
 - [x] Fushimi Inari Shrine at dawn
 - [ ] snorkeling in Okinawa
 - [x] eat unagi
-- [ ] omakase sushi
+- [x] omakase sushi
 - [ ] watch a sunrise
 - [ ] bike trip on the Shimanami Kaidou
 - [ ] get tattooed?
@@ -43,7 +43,7 @@
 - [x] sakuras           / mid march > mid april
 - [ ] nemophila         / mid april > early may
 - [ ] azaleas           / mid april > mid may
-- [ ] wisteria          / mid april > mid may
+- [x] wisteria          / mid april > mid may
 - [ ] pink moss         / mid april > mid may
 - [ ] tulips            / late april > may
 - [x] iris              / mid to late may
