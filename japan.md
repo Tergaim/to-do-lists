@@ -7,14 +7,15 @@
 - [x] Sumo tournament
 - [x] Sapporo Ice Festival    / early february
 - [x] summer fireworks        / summer
-- [x] Loudness concert        
+- [x] Loudness concert
+- [ ] LiSA concert
 - [x] Setsubun shrine thing   / early february
 - [ ] Kanda Matsuri           / mid-may 2025
 - [ ] Chichibu yomatsuri      / early december
 
 ### Places
 
-- [ ] Hiroshima
+- [x] Hiroshima
 - [x] Osaka
 - [ ] Northernmost point
 - [ ] Southernmost point
@@ -31,7 +32,7 @@
 - [x] eat unagi
 - [x] omakase sushi
 - [ ] watch a sunrise
-- [ ] bike trip on the Shimanami Kaidou
+- [x] bike trip on the Shimanami Kaidou (Tobishima was better)
 - [ ] get tattooed?
 - [ ] ski
 <!-- - [ ] love hotel -->
@@ -79,7 +80,7 @@
 - [ ] Pasmo (Tokyo)
 - [x] Manaca (Nagoya)
 - [x] Toica (Nagoya, JR)
-- [ ] Icoca (Osaka, JR)
+- [x] Icoca (Osaka, JR)
 - [ ] Nimoca (Fukuoka)
 - [ ] Hayakaken (Fukuoka City)
 - [ ] Sugoka (Fukuoka, JR)
