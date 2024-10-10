@@ -8,7 +8,7 @@
 - [x] Sapporo Ice Festival    / early february
 - [x] summer fireworks        / summer
 - [x] Loudness concert
-- [ ] LiSA concert
+- [x] LiSA concert
 - [x] Setsubun shrine thing   / early february
 - [ ] Kanda Matsuri           / mid-may 2025
 - [ ] Chichibu yomatsuri      / early december
@@ -55,7 +55,7 @@
 - [x] lotus             / mid july > mid august
 - [ ] cosmos            / late august > october
 - [ ] chrysanteum       / september > november
-- [ ] spider lily       / late september > october
+- [x] spider lily       / late september > october
 - [ ] narcissus         / december > january
 
 
@@ -77,7 +77,7 @@
 
 - [x] Kitaca (Sapporo)
 - [x] Suica (Tokyo, JR)
-- [ ] Pasmo (Tokyo)
+- [x] Pasmo (Tokyo)
 - [x] Manaca (Nagoya)
 - [x] Toica (Nagoya, JR)
 - [x] Icoca (Osaka, JR)
