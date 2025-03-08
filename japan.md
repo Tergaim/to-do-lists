@@ -31,19 +31,19 @@
 - [ ] snorkeling in Okinawa
 - [x] eat unagi
 - [x] omakase sushi
-- [ ] watch a sunrise
+- [x] watch a sunrise
 - [x] bike trip on the Shimanami Kaidou (Tobishima was better)
 - [ ] get tattooed?
-- [ ] ski
+- [x] ski
 <!-- - [ ] love hotel -->
 
 ### Flowers
 
-- [ ] camellia          / february
-- [ ] plums             / february > early march
+- [x] camellia          / february
+- [x] plums             / february > early march
 - [x] sakuras           / mid march > mid april
-- [ ] nemophila         / mid april > early may
-- [ ] azaleas           / mid april > mid may
+- [x] nemophila         / mid april > early may
+- [x] azaleas           / mid april > mid may
 - [x] wisteria          / mid april > mid may
 - [ ] pink moss         / mid april > mid may
 - [ ] tulips            / late april > may
@@ -53,8 +53,8 @@
 - [ ] lavender          / early july > august
 - [ ] sunflowers        / july > august
 - [x] lotus             / mid july > mid august
-- [ ] cosmos            / late august > october
-- [ ] chrysanteum       / september > november
+- [x] cosmos            / late august > october
+- [x] chrysanteum       / september > november
 - [x] spider lily       / late september > october
 - [ ] narcissus         / december > january
 
